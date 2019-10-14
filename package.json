@@ -1,0 +1,13 @@
+{
+  "name": "inkdrop-sidebar-fold",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "sidebar folding for Inkdrop.",
+  "keywords": [],
+  "repository": "https://github.com/choco14t/inkdrop-sidebar-fold",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^4.x"
+  },
+  "dependencies": {}
+}
