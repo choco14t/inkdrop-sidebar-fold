@@ -4,4 +4,6 @@ Sidebar folding for Inkdrop.
 
 ## Foldable sections
 
+* Notebooks
+* Status
 * Tags
